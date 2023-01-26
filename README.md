@@ -15,6 +15,7 @@
 </div>
 	
 <div align="left">
+	<img src="https://img.shields.io/badge/React Native-01FF95?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
