@@ -58,9 +58,8 @@
 <br>
 
 
-<div align=left>
-	<img src="https://github-readme-stats.vercel.app/api?username=suji8073&show_icons=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suji8073&layout=compact">
+<div align="center">
+	<img src="./dist/github-snake-grid-custom-animation.svg" width="100%">
 </div>
 
 
