@@ -58,8 +58,5 @@
 <br>
 
 
-<div align="center">
-	<img src="./dist/github-snake-grid-custom-animation.svg" width="100%">
-</div>
 
 
