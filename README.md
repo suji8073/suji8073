@@ -2,7 +2,6 @@
 <div align=left>
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsuji8073?color=gray&label=hits&size=small" alt="hits" /></a>
 
-<a href="https://suji-sw.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat&logo=blog&logoColor=white"/></a>
 <a href="suzy8073@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
 </div>
