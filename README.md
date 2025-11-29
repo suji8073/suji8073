@@ -1,11 +1,13 @@
 <p>✨ My Profile</p>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suji8073&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/suji8073"
-    width="600"
-    height="120"
+    width="500"
+    height="200"
   />
 </a>
+  
   
 <div align=left>
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsuji8073?color=gray&label=hits&size=small" alt="hits" /></a>
